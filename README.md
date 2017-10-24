@@ -9,4 +9,6 @@ vk-get-photos-from-article - download photos from specified vk.com page.
 
 # Example
 
+```shell
 $ ./vk-get-photos-from-article.tcl https://vk.com/wall-81294248_46519
+```
